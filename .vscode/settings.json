@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
-        "dynamicprogramming"
-    ]
+        "dynamicprogramming",
+        "tribonacci",
+        "Tribonacci"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
