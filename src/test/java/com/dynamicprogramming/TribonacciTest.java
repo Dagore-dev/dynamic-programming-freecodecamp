@@ -9,21 +9,22 @@ public class TribonacciTest {
     public void tribonacciOfZeroShouldBeZero() {
         assertEquals(Tribonacci.tribonacci(0), 0);
     }
+
     @Test
     public void tribonacciOfOneShouldBeZero() {
         assertEquals(Tribonacci.tribonacci(1), 0);
     }
-    
+
     @Test
     public void tribonacciOfFiveShouldBeFour() {
         assertEquals(Tribonacci.tribonacci(5), 4);
     }
-    
+
     @Test
     public void tribonacciOfTwoShouldBeOne() {
         assertEquals(Tribonacci.tribonacci(2), 1);
     }
-    
+
     @Test
     public void tribonacciOfSevenShouldBeThirteen() {
         assertEquals(Tribonacci.tribonacci(7), 13);
